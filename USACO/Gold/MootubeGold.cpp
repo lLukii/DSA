@@ -1,3 +1,8 @@
+/**
+ * USACO 2018 February Contest - Gold
+ * Mootube 
+ */
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

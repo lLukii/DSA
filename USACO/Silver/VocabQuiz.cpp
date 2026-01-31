@@ -1,3 +1,8 @@
+#/**
+ * USACO 2025 Feburary Contest - Silver
+ * Vocabulary Quiz (In-Contest AC)
+ */
+
 #include <iostream>
 #include <iomanip>
 #include <vector>

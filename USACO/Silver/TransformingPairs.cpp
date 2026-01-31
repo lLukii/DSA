@@ -1,3 +1,8 @@
+/**
+ * USACO 2025 February Contest - Silver
+ * Transforming Pairs (In-Contest AC)
+ */
+
 #include <iostream>
 #include <iomanip>
 #include <vector>
