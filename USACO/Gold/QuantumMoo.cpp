@@ -3,15 +3,7 @@
  * Quantum Moochanics
  */
 
-#include <iostream>
-#include <iomanip>
-#include <vector>
-#include <cstring>
-#include <algorithm>
-#include <map>
-#include <set>
-#include <cmath>
-#include <queue>
+#include <bits/stdc++.h>
 
 using namespace std;
 #define f first
