@@ -57,5 +57,3 @@ signed main(){
         solve();
     }
 }
-
-// 2024 USACO Gold Feburary p3
